@@ -23,6 +23,3 @@ Centraliser et partager des ressources pédagogiques entre étudiants.
 - Notes
 - Exercices
 - Présentations académiques
-
-## 📞 Contact
-Contacter le responsable actuel pour toute question.
